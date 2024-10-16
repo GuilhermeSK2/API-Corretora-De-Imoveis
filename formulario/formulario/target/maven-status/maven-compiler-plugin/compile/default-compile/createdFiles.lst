@@ -1,0 +1,17 @@
+com\freitas\formulario\dto\house\BathroomsDto.class
+com\freitas\formulario\dto\house\HouseSizeDto.class
+com\freitas\formulario\dto\house\HouseDto.class
+com\freitas\formulario\dto\house\ListingAgentDto.class
+com\freitas\formulario\service\HouseService.class
+com\freitas\formulario\dto\house\GardenDto.class
+com\freitas\formulario\dto\house\SwimmingPoolDto.class
+com\freitas\formulario\controller\PersonController.class
+com\freitas\formulario\dto\house\HouseFeatureDto.class
+com\freitas\formulario\dto\house\EnergyEfficiencyDto.class
+com\freitas\formulario\dto\house\ListingDetailsDto.class
+com\freitas\formulario\model\Person.class
+com\freitas\formulario\FormularioApplication.class
+com\freitas\formulario\dto\house\HoaFeeDto.class
+com\freitas\formulario\controller\HomeController.class
+com\freitas\formulario\dto\house\GarageDto.class
+com\freitas\formulario\dto\house\AddressDto.class
